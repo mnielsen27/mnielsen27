@@ -7,7 +7,22 @@ Crecí y vivo cerca de la playa, y me encanta el mar. También me gusta jugar al
 Me gusta trabajar en equipo y poder compartir con compañeros todo lo que sé, como aprender de ellos todo lo que pueda. 
 Estoy con muchas ganas de seguir creciendo, aprendiendo, y desafiándome día a día. 
 
+¿Que tecnologías uso? 
+- Javascript
+- Node.js
+- Express.js
+- React.js
+- PostgreSQL
+- Sequelize
+- GIT
+- HTML
+- CSS
+
+
+
+
 ¿Queres saber mas sobre mi?
 📩Contactame
 📞+54 9 11 60028191
 📧mariajosenielsen@gmail.com
+LinkedIn: https://www.linkedin.com/in/maria-jose-nielsen-dev
